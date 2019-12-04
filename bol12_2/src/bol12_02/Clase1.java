@@ -1,4 +1,4 @@
-package bol12_2;
+package bol12_02;
 
 class Clase1 {
 
